@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Honoble William Lenthal Esq; Speaker to the Honorable House of Commons, from the commissioners imployed by the Parliament for the reducing of Newark: together with the summons of the Commissioners of both Kingdoms to the governour, for delivering up of the said town for the use of the King and Parliament. And the governours answer thereunto. Appointed by the Honorable William Lenthal ... to be forthwith printed and published.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88040</idno>
+            <idno type="STC">Wing L1737</idno>
+            <idno type="STC">Thomason E330_23</idno>
+            <idno type="STC">ESTC R202805</idno>
+            <idno type="EEBO-CITATION">99862976</idno>
+            <idno type="PROQUEST">99862976</idno>
+            <idno type="VID">159631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159631)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E330[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Honoble William Lenthal Esq; Speaker to the Honorable House of Commons, from the commissioners imployed by the Parliament for the reducing of Newark: together with the summons of the Commissioners of both Kingdoms to the governour, for delivering up of the said town for the use of the King and Parliament. And the governours answer thereunto. Appointed by the Honorable William Lenthal ... to be forthwith printed and published.</title>
+                  <author>Belasyse, John Belasyse, Baron, 1615-1689.</author>
+                  <author>Pierrepont, William, 1607?-1678.</author>
+                  <author>England and Wales. Commissioners of Both Kingdoms.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>April 6. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter signed: W: Pierrepont, Tho: Hatcher, W: Armyne, Edw: Ascoughe.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newark-upon-Trent (England) --  History --  Siege, 1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159631:1" rendition="simple:additions"/>
+            <p>A LETTER TO The Hono<hi rend="sup">ble</hi> 
+               <hi>William Lenthal</hi>
+               <abbr>Eſq</abbr> Speaker to the Honorable Houſe of Commons, From the
+COMMISSIONERS Imployed by the PARLIAMENT For the Reducing of NEWARK: Together
+with The SUMMONS of the Commiſsioners of both Kingdoms to the Governour, for
+de<g ref="char:EOLhyphen"/>livering up of the ſaid Town for the uſe of the KING and PARLIAMENT.</p>
+            <p>And the Governours ANSWER thereunto.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="appointment_to_print">
+                        <p>
+                           <hi>APpointed by the Honorable</hi> William Lenthal
+<hi>
+                              <abbr>Eſq</abbr>; Speaker to the Honorable Houſe of Commons, to be
+forthwith printed and publiſhed.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London: Printed for EDW. HUSBAND, Printer to the Honorable
+Houſe of Commons. April 6. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159631:2"/>
+            <pb n="3" facs="tcp:159631:2"/>
+            <head>TO The Honorable <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr>
+Speaker of the Honorable Houſe of COMMONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N Saturday we met with the Earls of <hi>Lothian</hi> and
+<hi>Dunfermlyn,</hi> the Lord <hi>Bal<g ref="char:EOLhyphen"/>carris,</hi> Sir <hi>David Hame,</hi> Sir
+<hi>Thomas Carre,</hi> Sir <hi>Tho: Ruthen,</hi> Mr. <hi>Glandon<g ref="char:EOLhyphen"/>non,</hi> and
+Mr. <hi>Johnſton,</hi> Committees of the Parliament of <hi>Scotland,</hi> and
+did that day agree upon, and ſend Summons into <hi>Newark;</hi> We have here
+incloſed ſent you copies of our Sum<g ref="char:EOLhyphen"/>mons and the Anſwer; and ſince the
+merey of the Parliament is neglected, we hope by ſuch other means as God and
+you have put into our hands, ere long to reduce that place.</p>
+            <p>The Yorkſhire Committee have written unto us, to be
+diſingaged of the promiſe of repayment what the Counties of Lincoln,
+Leiceſter and Nottingham ſhould for the preſent lay out for the Quarters
+of their
+<pb n="4" facs="tcp:159631:3"/>Horſe (in
+regard their Ordinance was expired, and that they ſenſibly finde by
+experience, they are like to expect no more moneys conſiderable, ſo long as
+the Scotch Horſe continue thoſe heavy burdens upon the County) We therefore
+(and for that without preſent payment theſe Countreys cannot long pro<g ref="char:EOLhyphen"/>vide
+for their Horſe) ſhall be neceſſitated to ſend them into Yorkſhire,
+and the Line being now finiſh<g ref="char:EOLhyphen"/>ed, we hope they may be ſpared without much
+pre<g ref="char:EOLhyphen"/>judice to the ſervice. Colonel <hi>Poyntz</hi> doubts not but ſuddenly
+to turn the courſe of the River Trent, which ran cloſe under Newark, and
+will in a little time turn the River <hi>Smite</hi> into a new channel, that
+their Mills may not be helpful to them, or the water hinder the approaches on
+the North ſide Trent. The field-Officers have viewed the moſt convenient
+place for Forts to ſhoot either into the Town or Sconces, which are in
+preparation, and will ſpeedily be finiſh<g ref="char:EOLhyphen"/>ed: We ſhall loſe no time to
+make a good end of this ſervice; and we beſeech the Houſe, that their
+promiſed and often Ordered payments to the three Companies of the Iſle of
+Ely and the other Forces may be duly obſerved. We have received a Letter from
+the Committee of the Eaſtern Aſſociation, which declares their great care
+and pains for payment of their Garriſon Souldiers, and we hope the exe<g ref="char:EOLhyphen"/>cution
+of their Orders will not be neglected.</p>
+            <closer>
+               <signed>Your humble Servants,
+<list>
+                     <item>
+                        <hi>W: Pierrepont,</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: Hatcher,</hi>
+                     </item>
+                     <item>
+                        <hi>W: Armyne,</hi>
+                     </item>
+                     <item>
+                        <hi>Edw: Aſcoughe.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="summons">
+            <pb n="5" facs="tcp:159631:3"/>
+            <head>The Summons to <hi>Newark.</hi>
+            </head>
+            <p>WE the Committee of both Kingdoms being ſent and authorized,
+to uſe our beſt Endeavours for the reducing the Town and Garriſon of
+<hi>Newark;</hi> do hereby (in the Name of both Houſes of the Parliament of
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and for the uſe of the King and Parliament) de<g ref="char:EOLhyphen"/>mand of
+you, That you forthwith ſurrender the ſame into their hands: It is the
+pious care of the Parliament, to pre<g ref="char:EOLhyphen"/>vent the effuſion of Chriſtian blood,
+the waſting of the Countrey, and the deſtruction of Towns. We ſhall
+eſteem our ſelves happy in being Inſtruments to avert thoſe
+Miſe<g ref="char:EOLhyphen"/>ries; and ſhall therefore grant to you, the Gentlemen with you, and
+the Town, Honorable and fair Conditions; which if you ſhall now neglect, and
+will let nothing but experi<g ref="char:EOLhyphen"/>mental ſufferings declare unto you your
+unavoidable ruine; You are to give an accompt to God, to this preſent age,
+and to poſterity, for all the blood that ſhall from henceforth be ſhed,
+for the waſting your Native and neighbouring Coun<g ref="char:EOLhyphen"/>ties, and deſtruction of
+ſo conſiderable a place: You may not, nor can any in reaſon expect (and
+moſt aſſuredly on the faith of honeſt men, you ſhall not hereafter
+obtain from us) ſuch terms as we are now willing to afford you. We ſent no
+Summons until you and all with you might ſee, we were able by force to attain
+what we much rather deſire by Trea<g ref="char:EOLhyphen"/>ty; the Parliament have 16000 Horſe and
+Foot at preſent before your Town, Souldiers of Experience, United, and in
+Health and Courage; This is no way mentioned, as if we truſted in the Arm of
+Fleſh (God the Lord of Hoſts
+<pb n="6" facs="tcp:159631:4"/>hath
+manifeſted, that we figh: his Battels) but to ſhew you the vaſt expences
+which will be occaſioned by the continu<g ref="char:EOLhyphen"/>ance of this Singe (for which your
+Eſtates muſt anſwer) and that your holding out may not further tempt the
+Al<g ref="char:EOLhyphen"/>mighty: And though you ſhould not regard your own ruine, though ſome
+others ſhould be of that your opinion, ſhall yet that wealthy Town be
+ſacked, and others periſh with you that ſee their own miſery and would
+avoide it? A Prudent man, a Souldier cannot live or die in reputation or peace
+of Spirit, to maintain a place not ſo long temable, as till is can be
+relieved, of which you cannot have the leaſt hope: Flatter not your ſelves,
+relief is not to be had; <hi>Cheſter</hi> was neerer Succours, and
+conſiderable Armies for them in the Weſt and in <hi>Wales,</hi> now
+ſcarce ſeen what remains of either. Was not that ſtrong City of moſt
+great import<g ref="char:EOLhyphen"/>ance? were they not very often promiſed? did not all
+Aſſu<g ref="char:EOLhyphen"/>rances to be relieved come to them? They had none: That place is
+ſurrendred. Your Wealth, if you rightly conſider in what ſtate you are,
+promoves your certain and ſudden deſtruction: You are prepared in ſome
+things for defence, you know (and we know) you are not for ſome other.</p>
+            <p>Conſider theſe things ſeriouſly, and you cannot but
+through them, ſee your ruine to be inevitable, if you do not avoide it, by
+accepting what is now offered. We will expect your Anſwer on Munday next by
+eleven of the Clock in the forenoon at <hi>Balderton.</hi>
+            </p>
+            <closer>
+               <dateline>Balderton,
+<date>March 28. 1646.</date>
+               </dateline>
+               <signed>Signed in the Name, and by the Warrant of the Committee
+of both Kingdoms, by <hi>Rutland Lothian.</hi>
+               </signed>
+            </closer>
+            <trailer>For the Governor of the Town and Garriſon of
+<hi>Newark,</hi> the Gentlemen there, and the Mayor, Aldermen, and
+Burgeſſes of that Town.</trailer>
+         </div>
+         <div type="answer">
+            <pb n="7" facs="tcp:159631:4"/>
+            <head>The Governor of <hi>Newarks</hi> Anſwer to the Summons,
+<hi>March</hi> 31. 1646.</head>
+            <p>HAving received a Paper ſubſcribed by the Committee of both
+Kingdoms, directed as to a Committee-Governour, by putting the Gentlemen and
+Corporation in equal Commiſſion with me (though the joyning us together was
+with the inten<g ref="char:EOLhyphen"/>tion to divide us) I ſhall in Anſwer thereof, deſire you
+to reflect upon the Kings Letter of the 23 of <hi>March,</hi> ſent to the two
+Houſes of Parliament (which I received from your own Quarters) where, in a
+full compliance with all their deſires, upon the moſt Gracious Conditions
+that ever Prince propounded, He offers to disband His Forces, and to
+diſmantle His Garriſons: To what end then do you demand that of the
+Steward, whereof the Lord and Maſter makes a voluntary tender? I conceive it
+my duty to trace His Commands, not to out-ſtrip them: So that though Honor
+and Conſcience would permit the De<g ref="char:EOLhyphen"/>livery, yet Civility would retard it,
+leaſt His Maje<g ref="char:EOLhyphen"/>ſties Act of Grace be fruſtrated by my over haſty
+ſpeed. I ſhall wave the Arguments wherewith you endeavour to evince my
+conſent: I am neither to be ſtruck into Apoſtacy, by the mention of fair
+Condi<g ref="char:EOLhyphen"/>tions in a Miſty Notion, nor to be frighted into diſ<g ref="char:EOLhyphen"/>honor, by your
+running Diviſion upon the fate of
+<pb n="8" facs="tcp:159631:5"/>
+               <hi>Chester;</hi>
+For as I do not meaſure my Allegiance by my Intereſt to the former, ſo I
+do diſdain that pover<g ref="char:EOLhyphen"/>ty of Spirit, as by reſemblance of <hi>Chester,</hi>
+to ſuffer by example: I can be Loyal without that Copy, and I hope this
+Garriſon ſhall never be the tranſcript of their Calamity. You may do well
+to uſe your fortune modeſtly, and think not that God Almighty doth applaud
+your Cauſe, by reaſon of your Victo<g ref="char:EOLhyphen"/>ries, or that he hath not a
+Bleſſing in ſtore for Ours. Whereas you urge the expence of the Siege,
+and the preſſures of the Countrey in ſupporting your charge there
+(ſince occaſioned by your ſelves) I am not con<g ref="char:EOLhyphen"/>cerned; yet in order to
+their eaſe, if you will grant a Paſſe to ſome Gentlemen to go to the
+King and re<g ref="char:EOLhyphen"/>turn, I may then know His Majeſties pleaſure, Whether according
+to His Letter, He will winde up the buſineſſe in general, or leave me to
+ſteer my own courſe; then I ſhall know what to determine: other<g ref="char:EOLhyphen"/>wiſe I
+deſire you to take notice, that when I received my Commiſſion for the
+Government of this place, I annexed my life as a Label to my Truſt.</p>
+            <closer>
+               <signed>J. Bellaſyſe.</signed>
+               <dateline>
+                  <hi>Newark,</hi>
+                  <date>
+                     <hi>March</hi> 31.</date>
+               </dateline>
+            </closer>
+            <trailer>To the Committee of both Kingdoms.</trailer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
